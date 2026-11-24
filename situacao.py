@@ -1,4 +1,4 @@
-# Autor:
+# Autor:Carlos henrique
 
 def situacao(m):
     """Devolve "Aprovado" se a media for 60 ou mais;
